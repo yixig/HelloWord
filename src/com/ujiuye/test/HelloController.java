@@ -5,4 +5,8 @@ package com.ujiuye.test;
  * @create 2020-11-14 下午 4:58
  */
 public class HelloController {
+
+    public void fenzhi(){
+        System.out.println("我是aaa");
+    }
 }
